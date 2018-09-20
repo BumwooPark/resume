@@ -66,10 +66,10 @@ IOS Developer / BlockChain / AI
 
 역할 및 기술:  IOS전담 / Rxswift , Swift, OpenSources
 
-![image1](https://github.com/BumwooPark/resume/blob/master/CheeseCounter_1.png =100x200) 
-![image2](https://github.com/BumwooPark/resume/blob/master/CheeseCounter_2.png =100x200) 
-![image3](https://github.com/BumwooPark/resume/blob/master/CheeseCounter_3.png =100x200) 
-![image4](https://github.com/BumwooPark/resume/blob/master/CheeseCounter_4.png =100x200) 
+![image1](https://github.com/BumwooPark/resume/blob/master/CheeseCounter_1.png) 
+![image2](https://github.com/BumwooPark/resume/blob/master/CheeseCounter_2.png) 
+![image3](https://github.com/BumwooPark/resume/blob/master/CheeseCounter_3.png) 
+![image4](https://github.com/BumwooPark/resume/blob/master/CheeseCounter_4.png) 
 
 
 

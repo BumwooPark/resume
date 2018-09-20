@@ -49,9 +49,9 @@ IOS Developer / BlockChain / AI
 
 
 
-### Career
+## Career
 
-#### 치즈카운터 
+### 치즈카운터 
 
 - 2017.03 ~ 
 
@@ -66,15 +66,15 @@ IOS Developer / BlockChain / AI
 
 역할 및 기술:  IOS전담 / Rxswift , Swift, OpenSources
 
-![image1](https://github.com/BumwooPark/resume/blob/master/CheeseCounter_1.png) 
-![image2](https://github.com/BumwooPark/resume/blob/master/CheeseCounter_2.png) 
-![image3](https://github.com/BumwooPark/resume/blob/master/CheeseCounter_3.png) 
-![image4](https://github.com/BumwooPark/resume/blob/master/CheeseCounter_4.png) 
+![image1](https://github.com/BumwooPark/resume/blob/master/CheeseCounter_1.png =100x200) 
+![image2](https://github.com/BumwooPark/resume/blob/master/CheeseCounter_2.png =100x200) 
+![image3](https://github.com/BumwooPark/resume/blob/master/CheeseCounter_3.png =100x200) 
+![image4](https://github.com/BumwooPark/resume/blob/master/CheeseCounter_4.png =100x200) 
 
 
 
 
-#### 세종대 스마트 병해충 검색 시스템 IOS 클라이언트
+### 세종대 스마트 병해충 검색 시스템 IOS 클라이언트
 
 - 2017.05 ~ 2017.06
 
@@ -87,7 +87,7 @@ IOS Developer / BlockChain / AI
 사용된 기술 : IOS, Swift
 
 
-#### 치즈카운터 AI 
+### 치즈카운터 AI 
 
 - 2017.05 ~ 
 
@@ -106,7 +106,7 @@ IOS Developer / BlockChain / AI
 
 
 
-#### 버즈비 서비스 유지보수 
+### 버즈비 서비스 유지보수 
 
 - 2017.09 ~ 
 
@@ -120,7 +120,7 @@ rabbitmq, elasticsearch , mysql, 크롤러 유지보수 및 요청사항 크롤�
 
 
 
-#### 모다 AI 
+### 모다 AI 
 
 - 2017.10 ~ 2017.12
 
@@ -137,7 +137,7 @@ cost 값을 기준으로 classification 진행하게 되었습니다.
 해당프로젝트에 적극 적용을 해보는 계기가 되었습니다.
 
 
-#### 모다 NLP
+### 모다 NLP
 
 - 2017.11 ~ 2017.12
 
@@ -152,7 +152,7 @@ skip-gram 방식으로 워드 임배딩 및 트레이닝을 하게 되었습니�
 
 
 
-#### xml 기반 크롤러 제작
+### xml 기반 크롤러 제작
 
 - 2017.12 ~ 
 
@@ -168,7 +168,7 @@ skip-gram 방식으로 워드 임배딩 및 트레이닝을 하게 되었습니�
 
 
 
-#### ICO 참여
+### ICO 참여
 
 - 2018.04.20 ~
 

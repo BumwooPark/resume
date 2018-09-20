@@ -60,11 +60,16 @@ IOS Developer / BlockChain / AI
 
 사용자로부터 설문 및 질문을 입력받은후 설문에 응답 
 
-응답후 치즈를 보상으로 받으면서 추후 사용자가 치즈를 소모하면서 여러가지 서비스를 이용할 수 있는 서비스 입니다.
+응답후 치즈를 보상으로 받으면서 추후 사용자가 치즈를 소모하면서 여러가지 서비스를 이용할 수 있는 서비스.
 
-현재까지 유저수는 대략 7000명 정도로 안정화 단계에서 유지보수를 하고 있습니다.
+현재까지 유저수는 대략 7000명 정도로 안정화 단계에서 유지보수를 하고 있음.
 
-역할 및 기술:  IOS전담 / Rxswift , Swift, OpenSources 
+역할 및 기술:  IOS전담 / Rxswift , Swift, OpenSources
+
+![image1](https://github.com/BumwooPark/resume/blob/master/CheeseCounter_1.png) 
+![image2](https://github.com/BumwooPark/resume/blob/master/CheeseCounter_2.png) 
+![image3](https://github.com/BumwooPark/resume/blob/master/CheeseCounter_3.png) 
+![image4](https://github.com/BumwooPark/resume/blob/master/CheeseCounter_4.png) 
 
 
 
